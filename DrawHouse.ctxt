@@ -1,0 +1,27 @@
+#BlueJ class context
+comment0.target=DrawHouse
+comment1.params=
+comment1.target=DrawHouse()
+comment10.params=
+comment10.target=void\ drawSun()
+comment11.params=
+comment11.target=void\ drawTrees()
+comment12.params=
+comment12.target=void\ drawShrub()
+comment2.params=
+comment2.target=void\ drawBackground()
+comment3.params=
+comment3.target=void\ changeLocation()
+comment4.params=
+comment4.target=void\ drawFrame()
+comment5.params=
+comment5.target=void\ drawRoof()
+comment6.params=
+comment6.target=void\ drawBack()
+comment7.params=
+comment7.target=void\ createDesign()
+comment8.params=
+comment8.target=void\ drawRoofDesign()
+comment9.params=numCircles
+comment9.target=void\ createCirclePattern(int)
+numComments=13
